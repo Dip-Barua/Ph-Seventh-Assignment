@@ -1,0 +1,19 @@
+.bg-nletter {
+    background-image: url('../../assets/bg.png');
+    background-color: white;
+    border: 2px solid rgb(230, 231, 231);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;  }
+
+    .bg-border {
+        background-color: rgba(255, 255, 255, 0.096);
+        border: 2px solid rgb(250, 250, 250);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;  }
+
+        .bg-grad{
+            background:rgba(201,117,169,1),rgba(241,201,90,1);
+background: linear-gradient(336deg, rgba(201,117,169,1),rgba(241,201,90,1) 100%);
+        }
